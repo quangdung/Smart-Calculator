@@ -13,4 +13,4 @@ Make sure that you update the information just below with the names of the two s
 
 ## Fork Information
 
-This repo has been forked by Arnaud Desclouds and Quang Dung NGO.
+This repo has been forked by Quang Dung NGO.
